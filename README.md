@@ -1,4 +1,4 @@
-
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="./assets/code typing.png">
 
 ## Oi, me chamo Beatriz Viana
 
